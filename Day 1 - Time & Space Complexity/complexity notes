@@ -1,0 +1,33 @@
+# this file contains what i learnt today 
+
+# topics i learnt 
+
+why dsa is important ?
+what is time complexity and big O notations
+types of time complexity 
+rules for time complexity 
+what is space complexity 
+
+# why Dsa is important 
+
+            in order to make the program work faster and in an optimised way imagine n is 5 the loop runs 5 times imagine the n is 50 the loop the runs 50 times now the computer did not became slower the amount of work it is doing is more so to make the computer do the work in optimized way Dsa is used
+
+# Time Complexity and big O notation
+
+            the amount of amount of work which is done by the program while increasing the size of the input size is known as time complexity 
+            big O notation denotes the different types of time complexity 
+
+# Types of time complexity 
+
+            O(1) = this is used when the amount of work done by the program is constant regardless of the input size 
+            O(n) = this is used when the amount of work done by the program is increasing linearly with respect to the increase in the size of the input 
+            O(n^2) = this is used when we are using the nested loops 
+
+# Rules of time complexity 
+
+            if we are having two different time complexity in a single program then we have conclude to a single complexity that is determined by knowing which of the following is contributing more to the output 
+            we have to ommit the constant terms and multipliers 
+
+# Space complexity 
+
+            Space complexity tells us how much extra memory an algorithm needs.
