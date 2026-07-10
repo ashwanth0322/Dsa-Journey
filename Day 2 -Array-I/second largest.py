@@ -24,5 +24,5 @@ def second_largest(arr):
         return second_largest
     else:
         print("The array have only one element")
-arr=[10,2,8,12,11]
+arr=[10,10,2]
 print("The Second Largest element in the array :",second_largest(arr))
